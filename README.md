@@ -1,8 +1,8 @@
 # - Trabalho de estudo de casos em data science aplicada a negócios
 Aluno: Pedro Henrique Sodré Araujo;
-Ra: 2111050
 
-## - Introdução
+
+## - Introduçãohh In
 Este trabalho busca apresentar como funciona o agronegócio brasileiro, suas origens, tendências e características. 
 
 ## - Cama de Gato do Futuro
