@@ -23,3 +23,9 @@ https://www.myfarm.com.br/agronegocio-2022/#:~:text=Tend%C3%AAncias%20do%20agron
 
 ## - Minhas contribuições
 Contribui com a coleta de dados e troca de ideias do trabalho do Lucas Rocha Torres, dado que sou sócio dele no projeto da produtora de conteúdos digitais.
+
+## - Entrega 2
+https://colab.research.google.com/drive/1aa_7zUvo85ocXof1WPKPK95Kul2NI9eh#scrollTo=5tK5G2ktDsR-
+
+## - Fonte de dados entrega 2
+https://sidra.ibge.gov.br/home/abate
